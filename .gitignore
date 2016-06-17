@@ -1,6 +1,11 @@
 /.classpath
+.classpath
 /.project
+.project
+/.mvn
+.mvn
 /target
+/.settings
 .settings
 /target
 .idea/*
